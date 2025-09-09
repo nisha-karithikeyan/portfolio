@@ -8,23 +8,23 @@ const projects = [
     description:
       "A system that extracts key cheque details from scanned PDFs/images using OCR, then organizes the data into dashboards with visual analytics and downloadable reports.",
     image: "/images/pic6.png",
-    github: "https://github.com/Web-Dev-Learner/Bank_cheque_extraction",
-    demo: "https://drive.google.com/file/d/1auC_fv5Wb1GInphJgwB6nwOCJ3nsFvEf/view",
+    github: "https://github.com/nisha-karithikeyan/Infosys_Intern_Project_Bankcheque",
+    demo: "https://drive.google.com/file/d/1n8oEbCQ4HHDTpSXZJ_DfABfU_zKdgkY_/view?usp=sharing",
   },
   {
-    title: "Chatty - Real-time Chat App",
+    title: "Portfolio",
     description:
-      "A modern messaging app supporting real-time chat, media sharing, user status, authentication, and profile customization, designed for smooth performance and enhanced user engagement.",
+      "My Personal Portfolio",
     image: "/images/pic5.png",
-    github: "https://github.com/Web-Dev-Learner/ChatApp",
-    demo: "https://drive.google.com/file/d/1mLYFmJIuQ_XvEWV-S7Zyquy2qYQPDGuc/view",
+    github: "https://github.com/nisha-karithikeyan/portfolio",
+    demo: "",
   },
   {
     title: "Joyful Mart - E Commerce App",
     description:
       "An online shopping web app with product browsing, detailed views, and a cart system, offering a smooth user experience with responsive design and real-time notifications.",
     image: "/images/pic1.png",
-    github: "https://github.com/Web-Dev-Learner/buy_now",
+    github: "https://github.com/nisha-karithikeyan/Joymart",
     demo: "https://web-dev-learner.github.io/buy_now/",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     description:
       "An interactive admin panel with sections like sales, users, analytics, and product management, providing live insights, chart visualizations, and full settings control in a responsive interface.",
     image: "/images/pic3.png",
-    github: "https://github.com/Web-Dev-Learner/admin_dashboard",
+    github: "https://github.com/nisha-karithikeyan/Dashboard_admin",
     demo: "https://admin-dashboard-teal-seven.vercel.app/",
   },
 ];
